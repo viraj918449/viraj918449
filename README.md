@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Developer;AI+Engineer;Tech+Lover&center=true&width=500&height=50">
 </p>
-<h3 align="center">and I love coding 💻</h3>
+<h3 align="center"> I love coding 💻</h3>
 
 <p align="center">
-Software Engineering Undergraduate 🎓 <br>
+Computer Science Undergraduate at NSBM Green University🎓 <br>
 Passionate Developer & Tech Enthusiast 🚀 <br><br>
 
 🚀 Aspiring AI Engineer | Web & App Developer <br>
@@ -22,7 +22,7 @@ Passionate Developer & Tech Enthusiast 🚀 <br><br>
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge)
 ![Anaconda](https://img.shields.io/badge/Anaconda-green?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge)
+
 
 ![SQL Server](https://img.shields.io/badge/MSSQL-red?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/Postgres-blue?style=for-the-badge)
